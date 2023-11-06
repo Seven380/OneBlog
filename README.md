@@ -146,6 +146,7 @@ Compose 是用于定义和运行多容器 Docker 应用程序的工具。通过 
 ![web端文章详情页 - 私密文章](docs/_media/ff9a84a3.png)
 ![web端文章详情页 - 私密文章](docs/_media/cd37ba37.png)
 ![web端首页-mobile](https://images.gitee.com/uploads/images/2019/0129/191428_c76317e8_784199.png "web端首页-mobile")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSeven380%2FOneBlog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSeven380%2FOneBlog?ref=badge_shield)
 
 ![admin端首页](https://images.gitee.com/uploads/images/2019/0129/191117_221c6064_784199.png "admin端首页")
 ![admin端文章列表也](https://images.gitee.com/uploads/images/2019/0129/191135_21e4f61c_784199.png "admin端文章列表也")
@@ -197,3 +198,7 @@ Compose 是用于定义和运行多容器 Docker 应用程序的工具。通过 
 # 开源协议
 
 [![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](https://gitee.com/yadong.zhang/DBlog/blob/master/LICENSE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSeven380%2FOneBlog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSeven380%2FOneBlog?ref=badge_large)
